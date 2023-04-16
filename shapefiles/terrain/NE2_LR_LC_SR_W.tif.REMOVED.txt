@@ -1,0 +1,1 @@
+original NE2_LR_LC_SR_W.tif file removed from repo for file size limitations, download from here https://github.com/nvkelso/natural-earth-raster/tree/master/10m_rasters/NE2_LR_LC_SR_W
