@@ -1,5 +1,7 @@
 # California Population Map
-![california population map](map_export.png)
+![california population map](assets/map_export.png)
+
+![screenshot of QGIS application](assets/screenshot.png)
 
 A population map of California created to get familiar with QGIS
 
